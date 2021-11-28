@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a55e415d-f786-4975-bcda-b686c7c3615d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ewa-streaming-api",
+    "appService.deploySubpath": "."
+}
